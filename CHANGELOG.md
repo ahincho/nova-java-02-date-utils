@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/ahincho/nova-java-02-date-utils/compare/v1.0.1...v1.0.2) (2026-09-27)
+
+
+### Documentation
+
+* add a README and adopt EPL-2.0 ([3020118](https://github.com/ahincho/nova-java-02-date-utils/commit/3020118a9b109b8298621ae8cffa482dfbb60732))
+
 ## [1.0.1](https://github.com/ahincho/nova-java-date-utils/compare/v1.0.0...v1.0.1) (2026-07-13)
 
 
