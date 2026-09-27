@@ -25,7 +25,7 @@ authenticated with a token that has `read:packages`.
 ```kotlin
 repositories {
     maven {
-        url = uri("https://maven.pkg.github.com/ahincho/nova-java-date-utils")
+        url = uri("https://maven.pkg.github.com/ahincho/nova-java-02-date-utils")
         credentials {
             username = providers.gradleProperty("gpr.user").orNull ?: System.getenv("GITHUB_ACTOR")
             password = providers.gradleProperty("gpr.key").orNull ?: System.getenv("GITHUB_TOKEN")
