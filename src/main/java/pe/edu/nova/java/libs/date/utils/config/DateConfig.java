@@ -10,7 +10,7 @@ import java.util.Locale;
  * Thread-safe por inmutabilidad.
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class DateConfig {
 

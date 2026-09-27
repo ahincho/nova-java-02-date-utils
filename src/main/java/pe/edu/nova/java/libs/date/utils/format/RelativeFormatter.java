@@ -18,7 +18,7 @@ import pe.edu.nova.java.libs.date.utils.config.DateConfig;
  * Usa mapas internos de mensajes — cero dependencias externas.
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class RelativeFormatter {
 

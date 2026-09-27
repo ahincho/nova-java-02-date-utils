@@ -11,7 +11,7 @@ import pe.edu.nova.java.libs.date.utils.exception.DateException;
  * {@link ConcurrentHashMap}.
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class DatePatterns {
 

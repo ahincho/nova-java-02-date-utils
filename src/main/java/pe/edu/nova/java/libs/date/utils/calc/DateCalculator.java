@@ -16,7 +16,7 @@ import pe.edu.nova.java.libs.date.utils.exception.DateException;
  * y stateless (thread-safe).
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class DateCalculator {
 

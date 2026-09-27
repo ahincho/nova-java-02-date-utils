@@ -14,7 +14,7 @@ import pe.edu.nova.java.libs.date.utils.exception.DateException;
  *
  * @param start fecha de inicio del rango (inclusive)
  * @param end   fecha de fin del rango (inclusive)
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public record DateRange(LocalDate start, LocalDate end) {
 

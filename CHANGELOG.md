@@ -23,6 +23,6 @@
 ### Bug Fixes
 
 * **ci:** inline publish-on-tag and remove dirty closure for Gradle 9.6.1 ([bf272fd](https://github.com/ahincho/nova-java-date-utils/commit/bf272fd12748830631991ce514a6550f07d7a3c2))
-* **ci:** update reusable workflow refs from OWNER/galaxy-training-devops to ahincho/nova-devops ([62496f9](https://github.com/ahincho/nova-java-date-utils/commit/62496f961b7c89e875da599fdcee0d9bd2a54357))
+* **ci:** update reusable workflow refs to ahincho/nova-devops ([62496f9](https://github.com/ahincho/nova-java-date-utils/commit/62496f961b7c89e875da599fdcee0d9bd2a54357))
 * **javadoc:** move [@throws](https://github.com/throws) tag from record-level to constructor Javadoc ([a6ea9d0](https://github.com/ahincho/nova-java-date-utils/commit/a6ea9d01dd1f0ff17d82313416a8ea6b5b680ac4))
 * **quality:** add missing config/checkstyle/checkstyle.xml ([ac92769](https://github.com/ahincho/nova-java-date-utils/commit/ac92769af6937da1a4c11d62b6e03b8d825cb0aa))

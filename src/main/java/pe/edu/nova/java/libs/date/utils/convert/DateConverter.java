@@ -18,7 +18,7 @@ import pe.edu.nova.java.libs.date.utils.exception.DateConversionException;
  * Thread-safe: todos los métodos son estáticos y stateless.
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class DateConverter {
 

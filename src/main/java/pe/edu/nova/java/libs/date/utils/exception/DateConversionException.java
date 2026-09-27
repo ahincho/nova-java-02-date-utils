@@ -3,7 +3,7 @@ package pe.edu.nova.java.libs.date.utils.exception;
 /**
  * Excepción lanzada cuando falla una operación de conversión entre tipos temporales.
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public class DateConversionException extends DateException {
 

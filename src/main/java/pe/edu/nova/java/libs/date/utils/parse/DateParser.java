@@ -22,7 +22,7 @@ import pe.edu.nova.java.libs.date.utils.pattern.PatternValidator;
  * Soporta modo estricto y leniente, multi-locale y múltiples patrones.
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class DateParser {
 

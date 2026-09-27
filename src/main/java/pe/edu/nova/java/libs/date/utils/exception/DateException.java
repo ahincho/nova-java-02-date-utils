@@ -7,7 +7,7 @@ package pe.edu.nova.java.libs.date.utils.exception;
  * excepciones con try-catch (unchecked).
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public class DateException extends RuntimeException {
 

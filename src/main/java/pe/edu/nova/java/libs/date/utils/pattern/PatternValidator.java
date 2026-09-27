@@ -10,7 +10,7 @@ import pe.edu.nova.java.libs.date.utils.exception.DateFormatException;
  * Usado internamente por DateFormatter, DateParser y DatePatterns.
  * </p>
  *
- * @author Galaxy Training
+ * @author Nova Platform
  */
 public final class PatternValidator {
 
