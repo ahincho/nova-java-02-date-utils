@@ -77,6 +77,11 @@ dependencyCheck {
     // and an empty NVD key (slower updates, acceptable for local dev).
     failBuildOnCVSS = (System.getenv("NOVA_OWASP_FAIL_ON_CVSS") ?: "11").toFloat()
     nvd.apiKey = System.getenv("NVD_API_KEY") ?: ""
+    // reusable-owasp-check.yml restaura un mirror de NVD de menos de 24 horas. Sin estas
+    // dos líneas el plugin lo ignora, sincroniza NVD entero y puede quedarse sin memoria.
+    autoUpdate = false
+    data.directory = System.getenv("NOVA_OWASP_DATA_DIR")
+        ?: "${System.getProperty("user.home")}/.dependency-check-data"
 }
 
 pitest {
