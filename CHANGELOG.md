@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/ahincho/nova-java-02-date-utils/compare/v1.0.2...v1.0.3) (2026-10-02)
+
+
+### Bug Fixes
+
+* **deps:** pin the patched versions the OWASP gate now reports ([1ec700f](https://github.com/ahincho/nova-java-02-date-utils/commit/1ec700f8c3d07397926399315e41a0ea9ba4d9db))
+
 ## [1.0.2](https://github.com/ahincho/nova-java-02-date-utils/compare/v1.0.1...v1.0.2) (2026-09-27)
 
 
